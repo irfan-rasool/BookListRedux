@@ -7,7 +7,7 @@ export default function () {
             title : 'ReactJS good parts'
         },
         {
-            title : 'ReactJS good parts'
+            title : 'NodeJs good parts'
         },
         {
             title : 'GraphQL good parts'
